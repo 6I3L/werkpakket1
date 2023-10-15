@@ -1,0 +1,17 @@
+{
+  "name": "werkpakket1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/styles.scss dist/styles.css --watch"
+  }
+  ,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.3"
+  }
+}
+
